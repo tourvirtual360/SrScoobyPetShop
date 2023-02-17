@@ -1,0 +1,47 @@
+#: locale=pt
+
+## Tour
+
+### Description
+tour.description = Manaus - Am
+
+### Title
+tour.name = Sr. Scooby Cliníca Veterinária e Pet Shop
+
+## Skin
+
+### Button
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = ENTRADA
+Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = ENTRADA
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = ÁREA DE BANHO
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = ÁREA DE BANHO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = INTERNA LOJA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = INTERNA LOJA
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = ESPERA PÓS BANHO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = ESPERA PÓS BANHO
+
+## Media
+
+### Title
+panorama_516D51A3_5F14_361F_41BB_AC312FF3FD75.label = 02
+panorama_53F3F3CC_5F14_FA29_41C1_F114D8B0DDB6.label = 03
+panorama_53F494AD_5F14_3E6B_41B9_C0F0B8CB0ADB.label = 06
+panorama_53F65494_5F13_FE39_41CB_222E3C3756BA.label = 07
+panorama_53F664A5_5F14_7E1B_41D6_6B4D4760B209.label = 05
+panorama_53F6C48D_5F14_3E2B_41D7_2B5AB868A6CA.label = 04
+panorama_53F9181F_5F1C_3627_41B1_E6B474648C9D.label = 12
+panorama_53F938C8_5F1C_362A_41CD_967420AAFB3D.label = 10
+panorama_53F9546A_5F1C_3EEE_41D0_C4DEAA8C81E8.label = 08
+panorama_53F9D839_5F1C_F66B_41D2_4542E9CFFD7E.label = 11
+panorama_53FB0687_5F1C_7A27_41D1_7F0F44E46198.label = 09
+panorama_53FB0943_5F1C_761F_41AD_ED7B918AE4A7.label = 13
+
+## Action
+
+### URL
+LinkBehaviour_318F3AF8_2233_9092_419E_5A3E6AE0064D.source = https://goo.gl/maps/KR2HnRfHViYPRmBh8
+LinkBehaviour_367B7674_223C_9391_41AA_5D76E73215A5.source = https://www.instagram.com/docg.manaus/
+LinkBehaviour_D9F75010_C9FC_7A55_41C6_9C2063C67166.source = https://wa.link/mo2hpd
+LinkBehaviour_DAFC98DC_C9C4_6BCD_41E3_F1BC46475547.source = https://goo.gl/maps/KR2HnRfHViYPRmBh8
+LinkBehaviour_DAFD58DB_C9C4_6BCB_4189_C491BF3FD9C1.source = https://www.instagram.com/docg.manaus/
+LinkBehaviour_DAFD78DA_C9C4_6BD5_41E1_A135525337C1.source = https://wa.link/mo2hpd
