@@ -11,14 +11,16 @@ tour.name = Sr. Scooby Cliníca Veterinária e Pet Shop
 ## Skin
 
 ### Button
+Button_79405F76_613C_CAF9_41B5_67159A35467F_mobile.label = CONSULTÓRIO
+Button_7A1917D1_612C_7A3A_41C2_432B61687825.label = SALA DE CIRURGIA
 Button_E60B8634_FB49_1501_41D3_1EB9128CFA11.label = ENTRADA
 Button_E60B8634_FB49_1501_41D3_1EB9128CFA11_mobile.label = ENTRADA
-Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = ÁREA DE BANHO
-Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = ÁREA DE BANHO
-Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = INTERNA LOJA
-Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = INTERNA LOJA
-Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = ESPERA PÓS BANHO
-Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = ESPERA PÓS BANHO
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928.label = CONSULTÓRIO
+Button_E610DBA4_FB4B_1301_41E8_B78505FDE928_mobile.label = SALA DE CIRURGIA
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B.label = RECEPÇÃO
+Button_E682BE0D_FB49_3503_41EA_3D7E1FA6BA1B_mobile.label = RECEPÇAO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A.label = ÁREA DE BANHO
+Button_E68CB280_FB4F_2D01_41C3_8DC56C22B65A_mobile.label = ÁREA DE BANHO
 
 ## Media
 
@@ -39,9 +41,9 @@ panorama_53FB0943_5F1C_761F_41AD_ED7B918AE4A7.label = 13
 ## Action
 
 ### URL
-LinkBehaviour_318F3AF8_2233_9092_419E_5A3E6AE0064D.source = https://goo.gl/maps/KR2HnRfHViYPRmBh8
-LinkBehaviour_367B7674_223C_9391_41AA_5D76E73215A5.source = https://www.instagram.com/docg.manaus/
-LinkBehaviour_D9F75010_C9FC_7A55_41C6_9C2063C67166.source = https://wa.link/mo2hpd
-LinkBehaviour_DAFC98DC_C9C4_6BCD_41E3_F1BC46475547.source = https://goo.gl/maps/KR2HnRfHViYPRmBh8
-LinkBehaviour_DAFD58DB_C9C4_6BCB_4189_C491BF3FD9C1.source = https://www.instagram.com/docg.manaus/
-LinkBehaviour_DAFD78DA_C9C4_6BD5_41E1_A135525337C1.source = https://wa.link/mo2hpd
+LinkBehaviour_318F3AF8_2233_9092_419E_5A3E6AE0064D.source = https://goo.gl/maps/YxXViDKGdmMZ58k76
+LinkBehaviour_367B7674_223C_9391_41AA_5D76E73215A5.source = https://www.instagram.com/sr.scooby_petshop/
+LinkBehaviour_D9F75010_C9FC_7A55_41C6_9C2063C67166.source = https://wa.link/hopd6q
+LinkBehaviour_DAFC98DC_C9C4_6BCD_41E3_F1BC46475547.source = https://goo.gl/maps/YxXViDKGdmMZ58k76
+LinkBehaviour_DAFD58DB_C9C4_6BCB_4189_C491BF3FD9C1.source = http://instagram.com/sr.scooby_petshop
+LinkBehaviour_DAFD78DA_C9C4_6BD5_41E1_A135525337C1.source = https://wa.link/hopd6q
